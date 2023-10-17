@@ -1,0 +1,7 @@
+C:\Users\usuari\Desktop\Visual Studio\C#\DonCangrejo\ServerClient\obj\Debug\ServerClient.csproj.AssemblyReference.cache
+C:\Users\usuari\Desktop\Visual Studio\C#\DonCangrejo\ServerClient\obj\Debug\ServerClient.csproj.CoreCompileInputs.cache
+C:\Users\usuari\Desktop\Visual Studio\C#\DonCangrejo\ServerClient\bin\Debug\ServerClient.exe.config
+C:\Users\usuari\Desktop\Visual Studio\C#\DonCangrejo\ServerClient\bin\Debug\ServerClient.exe
+C:\Users\usuari\Desktop\Visual Studio\C#\DonCangrejo\ServerClient\bin\Debug\ServerClient.pdb
+C:\Users\usuari\Desktop\Visual Studio\C#\DonCangrejo\ServerClient\obj\Debug\ServerClient.exe
+C:\Users\usuari\Desktop\Visual Studio\C#\DonCangrejo\ServerClient\obj\Debug\ServerClient.pdb
